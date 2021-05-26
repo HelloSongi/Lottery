@@ -1,1 +1,1 @@
-Blank Read me File. Needs to be updated.
+#DAAp lottery app
